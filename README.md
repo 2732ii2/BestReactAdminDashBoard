@@ -23,6 +23,9 @@ A small demo for understanding the libraries and functionalities that has been u
 ## Live Link
 The Project is hosted Live at : [https://2732ii2.github.io/BestReactAdminDashBoard/](https://2732ii2.github.io/BestReactAdminDashBoard/)
 
+## Screenshots
+<img width="1440" alt="one" src="https://user-images.githubusercontent.com/83974207/218471265-6c7185c0-e2ae-42f4-baa9-044df7f5a825.png">
+
 The way I approached to this task is basically:
   
   - The most important think inside this project is how we make a chart or graph inside component 
