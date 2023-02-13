@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+Project =  ORION Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Techologies Used in it: 
+    -  React-JS
+    -  React Libraries Like : Material UI , CHART-JS .
+    -  Javascript
+    -  Html And CSS
+    - Packages like React-Dom
+    
+Steps to run/build the project
 
-## Available Scripts
+    # Simple step's you have to follow to getting starting with this application
 
-In the project directory, you can run:
+    First Clone this application by using 
 
-### `npm start`
+    ###  git clone https url.
+    
+    open that directory in Coding Enviornment Like VS-Code.
+     
+    Second Step is to just install the npm .
+     
+    Writing a command like
+    
+    ### `npm i`
+    
+    in you terminal.
+    
+    Last command is 
+    ###.  `npm start`
+    
+    Now you are ready to go.
+    
+Now the small demo for understanding the libraries and functionalities that has been used in it: 
+Link = ` https://drive.google.com/file/d/1dizpMeIvreWBrqnDxOTTqHLiOyz7U9nc/view?usp=share_link `;
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The live hosted link  was : ` https://2732ii2.github.io/BestReactAdminDashBoard/ `.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The way i approached to the task is basically :
+  
+  -The most important think inside this project is how we make a chart or graph inside component 
+  -And after that the most difficult and important
+        - Make a positioning of div's in which it's work beautifully that mentioned inside the Figma
+        So basically if we have a good understanding of Positing in CSS then it easy to make it.
+   - And every thing is just React component's we have to use
+   
+   - Last but not least a Flexbox properties of CSS .
+  
+ That's all from my side.
+        
+ 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
+    
